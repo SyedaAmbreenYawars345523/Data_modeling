@@ -1,3 +1,5 @@
+use ecommerce;
+
 -- View dataset
 select * from Customer;
 select * from orders;
@@ -21,3 +23,7 @@ join
 customer c on o.CustomerID = c.customerID
 where
 c.Name = 'John Doe' ;
+
+
+-- creating a table for John Doe
+
