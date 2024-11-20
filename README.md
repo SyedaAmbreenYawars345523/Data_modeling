@@ -7,4 +7,4 @@ Task is to designed a dat model for an e-commerce application. The Platform must
 
 **Step 1: Identify Entities**
 
-** - Customer:** Information about users.
+**- Customer:** Information about users.
